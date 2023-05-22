@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Ch03</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Account2.java</name>
+			<type>1</type>
+			<location>C:/Users/jakea/eclipse-workspace/Ch03/src/Account2.java</location>
+		</link>
+		<link>
+			<name>src/Account2Test.java</name>
+			<type>1</type>
+			<location>C:/Users/jakea/eclipse-workspace/Ch03/src/Account2Test.java</location>
+		</link>
+		<link>
+			<name>src/Account3.java</name>
+			<type>1</type>
+			<location>C:/Users/jakea/eclipse-workspace/Ch03/src/Account3.java</location>
+		</link>
+		<link>
+			<name>src/Account3Test.java</name>
+			<type>1</type>
+			<location>C:/Users/jakea/eclipse-workspace/Ch03/src/Account3Test.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
